@@ -1,2 +1,2 @@
 # stadt-in-bewegung-ipynb
-investigation of the collection's metadata in Jupyter Notebook
+Investigation of the collection's metadata in Jupyter Notebook
